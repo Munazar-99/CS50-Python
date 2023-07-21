@@ -8,6 +8,8 @@ def main():
             print('its lunch time')
         case _ if numerized_time >= 18.00 and numerized_time <= 19.00:
             print('its dinner time')
+        case _:
+            print('Not meal time')
 
 def convert(time):
     return float(time.replace(':', '.'))
