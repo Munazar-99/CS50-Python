@@ -8,11 +8,9 @@
 
 ## Repository Contents
 
-1. **Exercises**: This directory contains the exercises I complete as part of the course. These exercises are inspired by real-world programming problems and will help me apply the concepts I learn.
-2. **Code Examples**: Here, I will store code examples provided during the course. These examples serve as references for understanding various programming concepts.
-3. **Projects**: As I progress through the course, I will work on personal projects to reinforce my learning. Each project will have its own directory within this folder.
-4. **Resources**: This directory contains additional resources, such as cheat sheets, documentation, or helpful articles, that I find useful during my learning journey.
-5. **README.md**: The primary documentation for my repository, this file provides an overview of the repository's structure and outlines the contents of each folder.
+1. **Problem-Sets**: This directory contains the exercises I complete as part of the course. These exercises are inspired by real-world programming problems and will help me apply the concepts I learn.
+2. **Notes**: This directory contains additional resources, such as cheat sheets, documentation, or helpful articles, that I find useful during my learning journey.
+
 
 ## Getting Started
 
